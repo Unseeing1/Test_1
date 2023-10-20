@@ -1,0 +1,4 @@
+C:\Users\BG\source\repos\zaebal\Winform_Ruslan\Winform_Ruslan\obj\Debug\Winform_Ruslan.csproj.AssemblyReference.cache
+C:\Users\BG\source\repos\zaebal\Winform_Ruslan\Winform_Ruslan\obj\Debug\Winform_Ruslan.Properties.Resources.resources
+C:\Users\BG\source\repos\zaebal\Winform_Ruslan\Winform_Ruslan\obj\Debug\Winform_Ruslan.csproj.GenerateResource.cache
+C:\Users\BG\source\repos\zaebal\Winform_Ruslan\Winform_Ruslan\obj\Debug\Winform_Ruslan.csproj.CoreCompileInputs.cache
